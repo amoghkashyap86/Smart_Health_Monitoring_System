@@ -7,13 +7,12 @@
     tools:context=".Notes">
 
     <EditText
-        android:id="@+id/editText"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:id="@+id/editText4"
+        android:layout_width="347dp"
+        android:layout_height="571dp"
         android:ems="10"
         android:gravity="start|top"
-        android:hint="@string/writehere"
-        android:importantForAutofill="no"
+        android:hint="Writ the medical data which you want to preserve"
         android:inputType="textMultiLine"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
